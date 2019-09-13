@@ -1,0 +1,29 @@
+[33mcommit 531f2b880dc852a2b47107fc7e46803eead62539[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mert Demirok <mertdemirok80@gmail.com>
+Date:   Sat Sep 14 00:28:10 2019 +0200
+
+    new dosyasinda degisiklik yapildi
+
+[33mcommit 5a961c9e871973ba9600637c964958c6148d7e79[m
+Author: Mert Demirok <mertdemirok80@gmail.com>
+Date:   Sat Sep 14 00:23:12 2019 +0200
+
+    BOLME dosyasi silindi ve Maid dosyasi degistirildi
+
+[33mcommit e732da03aa6bdf594e738f7663baed093bdbde30[m
+Author: Mert Demirok <mertdemirok80@gmail.com>
+Date:   Fri Sep 13 18:35:26 2019 +0200
+
+    BOLME ve CARPMA dosyaları eklendi
+
+[33mcommit 7851a30bd3ccdce3f365e55a59fa748265b11cc2[m
+Author: Mert Demirok <mertdemirok80@gmail.com>
+Date:   Fri Sep 13 18:15:07 2019 +0200
+
+    cıkarma metodu commit edildi
+
+[33mcommit 0ec6d472305b8f7944267bb89d163ef75089a187[m
+Author: Mert Demirok <mertdemirok80@gmail.com>
+Date:   Fri Sep 13 16:50:50 2019 +0200
+
+    new py dosyayı eklendi
